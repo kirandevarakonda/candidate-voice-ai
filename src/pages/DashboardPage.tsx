@@ -7,7 +7,7 @@ import { Badge } from "@/components/ui/badge";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Progress } from "@/components/ui/progress";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
-import { Search, Users, MessageSquare, Clock, ArrowUp, ArrowDown, Eye } from "lucide-react";
+import { Search, Users, MessageSquare, Clock, ArrowUp, ArrowDown, Eye, Settings } from "lucide-react";
 import Navigation from "@/components/Navigation";
 
 const DashboardPage = () => {
